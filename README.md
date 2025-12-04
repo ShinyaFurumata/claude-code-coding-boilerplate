@@ -73,6 +73,8 @@ ExacPlan の粒度と順番のアドバイスをもらう
 @SPEC.md を確認して、MVP時点でのゴールを達成するためにどの粒度、順番でタスクをこなすべきかを考え、features.jsonに追加してください。
 ```
 
-## デザインが気に食わない時
-下記ブログを読んで、自分の好みのプロンプト or スキルを追加する
+## 参考になる記事
+Designが気に入らないときは、frontend-design-skillを導入すると良い
 - https://www.claude.com/blog/improving-frontend-design-through-skills
+- https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents
+- https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-4-best-practices#long-horizon-reasoning-and-state-tracking
