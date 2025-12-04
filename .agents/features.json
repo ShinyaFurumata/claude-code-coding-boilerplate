@@ -1,0 +1,34 @@
+{
+    "project": "サンプルプロジェクト",
+    "features": [
+      {
+        "id": "F000",
+        "title": "開発ディレクトリの作成",
+        "status": "done",
+        "acceptance_criteria": [
+          "開発用のディレクトリが作成される",
+          "開発用のディレクトリに必要なファイルが作成される"
+        ]
+      },
+      {
+        "id": "F001",
+        "title": "xxx",
+        "status": "in_progress",
+        "notes": "biome.json作成済み、VS Code連携は未設定",
+        "acceptance_criteria": [
+          "npm run lint が動作する",
+          "npm run format が動作する",
+          "VS Codeで保存時に自動フォーマット"
+        ]
+      },
+      {
+        "id": "F002",
+        "title": "xxx",
+        "status": "not_started",
+        "acceptance_criteria": [
+          "ログインフォームが表示される",
+          "正しい認証情報でログインできる"
+        ]
+      }
+    ]
+  }
