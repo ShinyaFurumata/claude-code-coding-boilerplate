@@ -58,7 +58,11 @@ Context 7:
 - 開発サーバーの起動ログと PID を `.agents/tmp` に記録し、作業終了時にプロセスと利用したブラウザを確実に停止してください
 
 ## Project design rules
-- 使用フォント: Noto Sans JP
-- ブランドカラー: 未指定
-- 避けるパターン: 未指定
+- フォント: sans="Zen Kaku Gothic New", display="Noto Sans JP"
+- プライマリカラー: navy #1e3a5f
+- セカンダリカラー: teal #0d7377
+- アクセントカラー: teal-400 #2dd4bf
+- 角丸: ボタン/バッジはrounded-full、カード/ボックスはrounded-2xl
+- 背景基調: ライトbg-gray-50、ダークセクションはnavy-900系
+- 避けるパターン: 特になし。
 UIを実装するときは、shadcn, vercel ai elements(pre-built components for AI feature) motion,を利用することで、大幅に実装を効率化することができるので、積極的に活用してください。
