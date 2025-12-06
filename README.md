@@ -9,16 +9,16 @@
 ## SPEC の準備
 SPEC.mdを完成させてください。
 
-## 環境構築 の開始
-```
-SPEC.mdを確認して、0からの環境構築するまでの手順をfeatures.jsonに追加してください。
-```
-
 ## MCP の準備
 MCP-example.md を確認して、エージェントに合わせた MCP 設定を行ってください。
 - Claude Code, Codex, Cursor用のサンプルMCPファイルを作成済みです
 - Context7はAPI Keyを用意してください（無料）
-- Motion+を利用して
+- Motion+の有料版では、API Keyを用意する必要があります。無料版の場合は適宜内容を変更してください。
+
+## 環境構築 の開始
+```
+SPEC.mdを確認して、0からの環境構築するまでの手順をfeatures.jsonに追加してください。
+```
 
 # Vibe Coding の仕方
 ## 小さなタスク
